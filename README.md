@@ -1,3 +1,3 @@
 # apnacollegedemo
-This is my Git RepositorY
+This is my Git Repository
 Author - Puneet Sharma
